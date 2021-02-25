@@ -1,0 +1,4 @@
+export const CONTAINERS = {
+  USERS: 'USERS',
+  USER_DETAIL: 'USER_DETAIL'
+}
